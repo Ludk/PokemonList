@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="action_settings">Settings</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="password">Password</string>
+    <string name="btn_login">ENTRAR</string>
+    <string name="txt_olvipass">¿Olvidaste tu contraseña?</string>
+    <string name="txt_noCuenta">¿No tienes una cuenta?</string>
+    <string name="btn_regis">REGISTRATE</string>
+    <string name="txt_regis">Regístrate usando</string>
+    <string name="title_activity_pokemons_list">PokemonsList</string>
+</resources>
